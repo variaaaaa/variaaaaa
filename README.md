@@ -1,5 +1,5 @@
 <h1 align="center">Hello world, my name is Varia</h1>
-<h3 align="center">I'm a student in Moscow Polytechnic University, Computer Science</h3>
+<h3 align="center">I'm a student of Moscow Polytechnic University, bachelor in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=variaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="variaaaaa" /> </p>
 
